@@ -5,7 +5,7 @@ const prisma = new PrismaClient();
 async function seedDatabase() {
   try {
     const images = [
-      "https://utfs.io/f/c97a2dc9-cf62-468b-a851-bfd2bdde775f-16p.png",
+      "https://utfs.io/f/55b317d4-e05a-4f03-a27e-56a1b3931576-16p.png",
       "https://utfs.io/f/45331760-899c-4b4b-910e-e00babb6ed81-16q.png",
       "https://utfs.io/f/5832df58-cfd7-4b3f-b102-42b7e150ced2-16r.png",
       "https://utfs.io/f/7e309eaa-d722-465b-b8b6-76217404a3d3-16s.png",

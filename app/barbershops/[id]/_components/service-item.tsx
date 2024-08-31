@@ -182,7 +182,7 @@ const ServiceItem = ({ service, barbershop, isAuthenticated }: ServiceItemProps)
                         width: '100%',
                       },
                       button: {
-                        width: '120%',
+                        width: '100%',
                       },
                       nav_button_previous: {
                         width: '32px',
